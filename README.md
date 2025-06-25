@@ -1,3 +1,2 @@
 # AIML-DEMO
-AUTHOR LAKSHMI
-rajeswari
+AUTHOR LAKShmi
