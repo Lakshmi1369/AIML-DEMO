@@ -1,4 +1,4 @@
-#data clenanig
+Data clenanig
 <br>
 Data cleaning is the process of preparing raw data by detecting and correcting errors so it can be effectively used for analysis. It is a foundational step in data preprocessing that ensures datasets are suitable for analytical, statistical and machine learning tasks.
 Raw data is often noisy, incomplete and inconsistent which can negatively impact the accuracy of the model.
